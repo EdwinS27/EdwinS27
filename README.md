@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Edwin Samaniego.
+## Hi there 👋
 
 <!--
 **EdwinS27/EdwinS27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
