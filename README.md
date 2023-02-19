@@ -22,4 +22,4 @@ A Full-Stack Sofware Engineer.
 - I’m currently learning Spring 🌱
 - [LinkedIn](https://www.linkedin.com/in/edwinsamaniego/)
 - [Personal Portfolio](https://www.edwinsamaniego.tech/)
-- 📫 You can reach me at ** officialedwinsamaniego@gmail.com ** | ** edwins27@edwinsamaniego.tech **
+- 📫 You can reach me at officialedwinsamaniego@gmail.com | edwins27@edwinsamaniego.tech
